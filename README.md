@@ -4,7 +4,88 @@
 
 ![image](https://github.com/takashicompany/heavy_left/blob/master/images/qmk.jpg?raw=true)
 
-# キーマップの変え方
+## 組み立て方
+
+<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8100.jpg?raw=true" width="600px">
+
+<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8103.jpg?raw=true" width="600px">
+
+
+<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8114.jpg?raw=true" width="600px">
+
+
+<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8110.jpg?raw=true" width="600px">
+
+
+<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8112.jpg?raw=true" width="600px">
+
+表面実装のダイオードの場合はテープを貼る
+<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8118.jpg?raw=true" width="600px">
+
+<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8119.jpg?raw=true" width="600px">
+
+<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8120.jpg?raw=true" width="600px">
+<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8121.jpg?raw=true" width="600px">
+
+TRRS
+<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8122.jpg?raw=true" width="600px">
+
+テープでおさえる
+<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8123.jpg?raw=true" width="600px">
+
+はんだ付けをする
+<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8124.jpg?raw=true" width="600px">
+
+リセットスイッチ
+<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8255.jpg?raw=true" width="600px">
+
+リセットスイッチを入れる
+<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8135.jpg?raw=true" width="600px">
+
+はんだ付け
+<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8136.jpg?raw=true" width="600px">
+
+ニッパーで平らにしておく
+<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8137.jpg?raw=true" width="600px">
+
+これくらい
+<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8138.jpg?raw=true" width="600px">
+
+Pro Micro
+<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8245.jpg?raw=true" width="600px">
+
+ピンヘッダの場合
+<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8247.jpg?raw=true" width="600px">
+
+テープで抑える
+<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8248.jpg?raw=true" width="600px">
+
+表からはんだづけ
+<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8251.jpg?raw=true" width="600px">
+
+その後キースイッチのはんだづけ
+<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8260.jpg?raw=true" width="600px">
+<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8261.jpg?raw=true" width="600px">
+<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8262.jpg?raw=true" width="600px">
+
+<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8141.jpg?raw=true" width="600px">
+<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8142.jpg?raw=true" width="600px">
+<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8244.jpg?raw=true" width="600px">
+<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8146.jpg?raw=true" width="600px">
+
+<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8.jpg?raw=true" width="600px">
+<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8.jpg?raw=true" width="600px">
+<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8.jpg?raw=true" width="600px">
+<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8.jpg?raw=true" width="600px">
+<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8.jpg?raw=true" width="600px">
+<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8.jpg?raw=true" width="600px">
+<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8.jpg?raw=true" width="600px">
+<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8.jpg?raw=true" width="600px">
+<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8.jpg?raw=true" width="600px">
+<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8.jpg?raw=true" width="600px">
+<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8.jpg?raw=true" width="600px">
+
+## キーマップの変え方
 
 ### 1. USBを左側に挿す
 
