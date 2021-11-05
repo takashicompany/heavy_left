@@ -81,19 +81,25 @@ PCBの裏面にピンヘッダを取り付けます。
 <img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8248.jpg?raw=true" width="600px">
 
 PCBの表面からはんだ付け行います。
-<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8245.jpg?raw=true" width="600px">
-
-
-
-表からはんだづけ
 <img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8251.jpg?raw=true" width="600px">
+
+### 6. MXソケットの取り付け(オプション)
+
+はんだをPCB裏面のMXソケット配置場所の片方に乗せます。(予備はんだ)  
+<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8141.jpg?raw=true" width="600px">
+
+その後、ピンセットでMXソケットを抑えながら予備はんだを溶かしつつMXソケットをはんだ付けします。(写真でピンセットが映っていませんがお気になさらず笑(
+
+
+<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8130.jpg?raw=true" width="600px">
+
 
 その後キースイッチのはんだづけ
 <img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8260.jpg?raw=true" width="600px">
 <img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8261.jpg?raw=true" width="600px">
 <img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8262.jpg?raw=true" width="600px">
 
-<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8141.jpg?raw=true" width="600px">
+
 <img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8142.jpg?raw=true" width="600px">
 <img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8244.jpg?raw=true" width="600px">
 <img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8146.jpg?raw=true" width="600px">
@@ -109,6 +115,11 @@ PCBの表面からはんだ付け行います。
 <img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8.jpg?raw=true" width="600px">
 <img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8.jpg?raw=true" width="600px">
 <img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8.jpg?raw=true" width="600px">
+
+<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8245.jpg?raw=true" width="600px">
+
+
+
 
 ## キーマップの変え方
 
