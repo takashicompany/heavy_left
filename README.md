@@ -82,7 +82,7 @@ PCBの裏面にピンヘッダを取り付けます。
 ピンヘッダをマスキングテープなどで仮止めしておくとスムーズに作業を進められます。  
 <img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8248.jpg?raw=true" width="600px">
 
-PCBの表面からはんだ付け行います。
+PCBの表面からはんだ付け行います。  
 <img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8251.jpg?raw=true" width="600px">
 
 ### 6. MXソケットの取り付け(オプション)
