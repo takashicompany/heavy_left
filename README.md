@@ -4,6 +4,9 @@
 
 ![image](https://github.com/takashicompany/heavy_left/blob/master/images/qmk.jpg?raw=true)
 
+## Store
+[Booth](https://takashicompany.booth.pm/items/3403718)
+
 ## 必要な部品
 
 ### キットに同梱されているもの
