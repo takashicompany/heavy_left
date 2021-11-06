@@ -68,7 +68,7 @@ PCB表面からはんだ付けをします。
 リセットスイッチの足をニッパーで可能な限り平らにしておくと後の作業がスムーズになります。
 <img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8137.jpg?raw=true" width="600px">
 
-私はこれぐらい頑張りました笑
+私はこれぐらい頑張りました笑  
 <img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8138.jpg?raw=true" width="600px">
 
 ### 5. ピンヘッダの取り付け
@@ -76,7 +76,7 @@ PCB表面からはんだ付けをします。
 **※Pro Microをコンスルー(スプリングピンヘッダ)で取り付ける場合はこの項目はスキップしてください。**
 
 ピンヘッダでPro Microを取り付ける際は、**キースイッチとトッププレートをPCBに取り付ける前に**ピンヘンダをPCBにはんだ付けを行います。  
-PCBの裏面にピンヘッダを取り付けます。
+PCBの裏面にピンヘッダを取り付けます。  
 <img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8247.jpg?raw=true" width="600px">
 
 ピンヘッダをマスキングテープなどで仮止めしておくとスムーズに作業を進められます。  
@@ -115,25 +115,29 @@ PCBの表面からはんだ付け行います。
 はんだ付けを行います。  
 <img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8262.jpg?raw=true" width="600px">
 
-Pro Micro部分のキースイッチが固定できたら
-
+Pro Micro部分のキースイッチが固定できたらPro Microをはんだ付けします。  
+(写真の工程がちょっと異なりますがお気になさらず)  
 <img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8131.jpg?raw=true" width="600px">
-<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8244.jpg?raw=true" width="600px">
+
+ある程度キースイッチを取り付けたら、スペーサーとネジでボトムプレートとトッププレートを留めます。  
+ボトムプレートもトッププレート同様に保護シートを剥がします。
+
+ボトムプレート左  
+<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8620.jpg?raw=true" width="600px">
+
+ボトムプレート右  
+<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8621.jpg?raw=true" width="600px">
+
+ボトムプレートを取り付けた図です。
+
+左手  
 <img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8146.jpg?raw=true" width="600px">
 
+右手  
+<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8146.jpg?raw=true" width="600px">
 
-<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8.jpg?raw=true" width="600px">
-<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8.jpg?raw=true" width="600px">
-<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8.jpg?raw=true" width="600px">
-<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8.jpg?raw=true" width="600px">
-<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8.jpg?raw=true" width="600px">
-<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8.jpg?raw=true" width="600px">
-<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8.jpg?raw=true" width="600px">
-<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8.jpg?raw=true" width="600px">
-<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8.jpg?raw=true" width="600px">
-
-<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8245.jpg?raw=true" width="600px">
-
+キースイッチ・キーキャップをを全て取り付け、ゴム足シールを貼ったら完成です。
+![image](https://github.com/takashicompany/heavy_left/blob/master/images/qmk.jpg?raw=true)
 
 
 
