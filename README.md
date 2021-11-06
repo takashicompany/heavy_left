@@ -115,10 +115,9 @@ PCBの表面からはんだ付け行います。
 はんだ付けを行います。  
 <img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8262.jpg?raw=true" width="600px">
 
+Pro Micro部分のキースイッチが固定できたら
 
-
-
-<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8142.jpg?raw=true" width="600px">
+<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8131.jpg?raw=true" width="600px">
 <img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8244.jpg?raw=true" width="600px">
 <img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8146.jpg?raw=true" width="600px">
 
