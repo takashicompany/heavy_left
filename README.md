@@ -25,16 +25,18 @@
 はんだ付けを行い、ダイオードの足をニッパーで切ります。  
 <img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8112.jpg?raw=true" width="600px">
 
-表面実装のダイオードを使用する場合は、マスキングテープなどで表面にはんだが漏れないようにするとキレイに仕上がります。
+---
+
+表面実装のダイオードを使用する場合は、マスキングテープなどで表面にはんだが漏れないようにするとキレイに仕上がります。  
 <img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8118.jpg?raw=true" width="600px">
 
-表面実装のダイオードをはんだ付けする際は、はんだ付け箇所の片方にはんだを事前に乗せておきます。(予備ハンダ)
+表面実装のダイオードをはんだ付けする際は、はんだ付け箇所の片方にはんだを事前に乗せておきます。(予備ハンダ)  
 <img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8119.jpg?raw=true" width="600px">
 
-ピンセットでダイオードを抑えながら、事前に乗せておいたはんだを溶かしてはんだ付けを行います。
+ピンセットでダイオードを抑えながら、事前に乗せておいたはんだを溶かしてはんだ付けを行います。  
 <img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8120.jpg?raw=true" width="600px">
 
-もう片方もはんだ付けをして完了です。
+もう片方もはんだ付けをして完了です。  
 <img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8121.jpg?raw=true" width="600px">
 
 左右の基板ともにはんだ付けを済ませます。
@@ -88,24 +90,39 @@ PCBの表面からはんだ付け行います。
 はんだをPCB裏面のMXソケット配置場所の片方に乗せます。(予備はんだ)  
 <img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8141.jpg?raw=true" width="600px">
 
-その後、ピンセットでMXソケットを抑えながら予備はんだを溶かしつつMXソケットをはんだ付けします。(写真でピンセットが映っていませんがお気になさらず笑(
+その後、ピンセットでMXソケットを抑えながら予備はんだを溶かしつつMXソケットをはんだ付けします。(写真でピンセットが映っていませんがお気になさらず笑)  
+<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8142.jpg?raw=true" width="600px">
 
+もう片方もはんだ付けをします。
 
-<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8130.jpg?raw=true" width="600px">
+### 7. トッププレートとキースイッチの取り付け
 
+トッププレートに貼ってある保護シートを両面ともに剥がします。
 
-その後キースイッチのはんだづけ
+左手のトッププレート  
+<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8618.jpg?raw=true" width="600px">
+
+右手のトッププレート  
+<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8619.jpg?raw=true" width="600px">
+
+トッププレートとPCBをキースイッチで留めます。  
 <img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8260.jpg?raw=true" width="600px">
+
+「5.ピンヘッダの取り付け」を行った場合で且つ「6. MXソケットの取り付け(オプション)」を**行わなかった場合**はPro  Microを取り付ける前にキースイッチを先に取り付けます。  
+ここの手順を間違えるとリカバリーが大変です。(MXソケットを使っている or コンスルーでPro Microを固定する場合はやり直しができる)  
 <img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8261.jpg?raw=true" width="600px">
+
+はんだ付けを行います。  
 <img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8262.jpg?raw=true" width="600px">
+
+
 
 
 <img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8142.jpg?raw=true" width="600px">
 <img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8244.jpg?raw=true" width="600px">
 <img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8146.jpg?raw=true" width="600px">
 
-<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8.jpg?raw=true" width="600px">
-<img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8.jpg?raw=true" width="600px">
+
 <img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8.jpg?raw=true" width="600px">
 <img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8.jpg?raw=true" width="600px">
 <img src = "https://github.com/takashicompany/heavy_left/blob/master/images/build/IMG_8.jpg?raw=true" width="600px">
