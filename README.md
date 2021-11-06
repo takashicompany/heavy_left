@@ -1,6 +1,8 @@
 # Heavy Left
 
-95キーの分割型のJIS配列キーボードです。
+95キーの分割型の日本語配列のキーボードです。  
+左手側にテンキーが備え付けられており、数字の入力だけでなく専用のマクロパッドとしても使用が可能です。  
+MXソケットによるキースイッチの付替えや、LEDによるアンダーグロウにも対応しています。  
 
 ![image](https://github.com/takashicompany/heavy_left/blob/master/images/qmk.jpg?raw=true)
 
