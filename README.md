@@ -179,7 +179,7 @@ Pro Micro部分のキースイッチが固定できたらPro Microをはんだ�
 
 QMKへのPull Requestは[こちら](https://github.com/qmk/qmk_firmware/pull/15052)
 
-RemapのサイトからファームウェアのDLと書き込みが可能です。
+RemapのサイトからファームウェアのDLと書き込みが可能です。  
 https://remap-keys.app/catalog/3ROWY1pMxcepNJD944Gs/firmware
 
 
